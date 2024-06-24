@@ -284,4 +284,4 @@ En resumen, pip es una herramienta esencial para cualquier desarrollador de Pyth
 
 #
 
-<div>Juan Pablo Batallón Costa</div>
+<div>Maximiliano David Tomio</div>
